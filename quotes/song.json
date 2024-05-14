@@ -1,0 +1,26 @@
+{
+  "$schema": "https://github.com/tizee/quotes/raw/main/schema.json",
+  "name": "lyrics from song",
+  "quotes": [
+    {
+      "quote": "我没有热爱这里，我只是出生在这个地方。",
+      "source": "河南说唱之神 - 工厂"
+    },
+    {
+      "quote": "This is America.\nDon't catch you slipping now.",
+      "source": "Childish Gambino - This is America"
+    },
+    {
+      "quote": "But if God got us, then we gon' be alright.",
+      "source": "Kendrick Lamar - Alright"
+    },
+    {
+      "quote": "拡がる世界は不思議な輝きを\n放ちながら心へと忍び込む",
+      "source": "山下達郎 - Sparkle"
+    },
+    {
+      "quote": "电灯熄灭 物换星移 泥牛入海\n黑暗好像 一颗巨石 按在胸口\n独脚大贼 百万富翁 摸爬滚打\n黑暗好像 一颗巨石 按在胸口",
+      "source": "万能青年旅店 - 大石碎胸口"
+    }
+  ]
+}

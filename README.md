@@ -24,6 +24,8 @@ A collection of quotes or excerpts that I found from this lovely world.
 brew install fortune
 ```
 
+### Install quotes
+
 - install into fortune data directory
 ```
 python3 generate.py --fortune
