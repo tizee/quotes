@@ -1,0 +1,18 @@
+{
+  "$schema": "https://github.com/tizee/quotes/raw/main/schema.json",
+  "name": "Alan Kay quotes",
+  "quotes": [
+    {
+      "quote": "People who are really serious about software should make their own hardware.",
+      "source": "Alan Kay - talk at Creative Think seminar, 20 July 1982"
+    },
+    {
+      "quote": "Look, the best way to predict the future is to invent it.",
+      "source": "Alan Kay - Predicting The Future"
+    },
+    {
+      "quote": "A change in perspective is worth 80 IQ points.",
+      "source": "Alan Kay - talk at Creative Think seminar, 20 July 1982"
+    }
+  ]
+}
