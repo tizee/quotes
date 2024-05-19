@@ -3,6 +3,7 @@
 set -e
 
 ROOT="$( cd "$( dirname "${BASH_SOURCE[0]}" )/.." && pwd )"
+python3 "$ROOT/generate.py" fortune
 DATA="${ROOT}/output/fortune"
 
 # homebrew fortune
