@@ -6,16 +6,17 @@
 
 # -*- coding: utf-8 -*-
 
-import sys
-import os
 import glob
+import json
+import os
 import subprocess
+import sys
 from pathlib import Path
 from pprint import pprint
-import json
 
 QUOTES_DIR = os.path.join(os.getcwd(), "quotes")
 OUTPUT_DIR = os.path.join(os.getcwd(), "output")
+
 
 
 class Config:

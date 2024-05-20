@@ -1,0 +1,14 @@
+{
+  "$schema": "https://github.com/tizee/quotes/raw/main/schema.json",
+  "name": "quotes on learning",
+  "quotes": [
+    {
+      "quote": "Best way to learn to code is reading code.",
+      "source": "raylib - a simple and easy-to-use library to enjoy videogames programming."
+    },
+    {
+      "quote": "Any fool can know. the point is to understand.",
+      "source": "James L. Christian - Philosophy: An Introduction to The Art of Wondering"
+    }
+  ]
+}
