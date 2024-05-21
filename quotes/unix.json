@@ -1,0 +1,22 @@
+{
+  "$schema": "https://github.com/tizee/quotes/raw/main/schema.json",
+  "name": "quotes about Unix system",
+  "quotes": [
+    {
+      "quote": "Although that philosophy can't be written down in a single sentence, at its heart is the idea that the power of a system comes more from the relationships among programs than from the programs themselves.\nMany UNIX programs do quite trivial things in isolation, but, combined with other programs, become general and useful tools.",
+      "source": "Rob Pike - The UNIX Programming Environment"
+    },
+    {
+      "quote": "This is the Unix philosophy: Write programs that do one thing and do it well.\nWrite programs to work together.\nWrite programs to handle text streams, because that is a universal interface.",
+      "source": "Doug McIlroy - The Art of Unix Programming"
+    },
+    {
+      "quote": "Keep it Simple, Stupid",
+      "source": "Unix philosophy - the KISS principle"
+    },
+    {
+      "quote": "Everything is a file",
+      "source": "Unix system"
+    }
+  ]
+}
