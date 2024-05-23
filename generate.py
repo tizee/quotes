@@ -18,7 +18,6 @@ QUOTES_DIR = os.path.join(os.getcwd(), "quotes")
 OUTPUT_DIR = os.path.join(os.getcwd(), "output")
 
 
-
 class Config:
     """Config"""
 
@@ -45,7 +44,7 @@ class Config:
             elif arg in self.supported_tools:
                 self.tools.append(arg)
             else:
-                pprint("invalid argument {}".format(arg))
+                pprint(f"invalid argument {arg}")
                 sys.exit(1)
         if self.debug:
             self.verbose()
@@ -59,13 +58,13 @@ class Config:
         for file_path in glob.glob(os.path.join(QUOTES_DIR, "*.json")):
             file_name = Path(file_path).stem
             if self.debug:
-                print("open {}".format(file_name))
-            with open(file_path, "r") as fd:
+                print(f"open {file_name}")
+            with open(file_path) as fd:
                 data = json.load(fd)
                 for tool in self.tools:
                     if tool == "fortune":
                         convert_fortune(file_name, data, self.debug)
-                        print("✅ process {} for fortune".format(file_name))
+                        print(f"✅ process {file_name} for fortune")
 
 
 # convert json to fortune strings format
@@ -75,7 +74,7 @@ def convert_fortune(file_name, json_data: dict, debug=False):
     for quote in quotes:
         content = quote.get("quote")
         source = quote.get("source")
-        line = "{}\n  --  {}\n%\n".format(content, source)
+        line = f"{content}\n  --  {source}\n%\n"
         fortune_lines.append(line)
         if debug:
             print("before ->")
@@ -91,7 +90,7 @@ def convert_fortune(file_name, json_data: dict, debug=False):
         ["strfile", file_path, data_file_path], capture_output=True, text=True
     )
     if debug:
-        print("strfile -> {}".format(result.stdout))
+        print(f"strfile -> {result.stdout}")
 
 
 def main(argv=None):

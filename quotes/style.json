@@ -1,0 +1,10 @@
+{
+  "$schema": "https://github.com/tizee/quotes/raw/main/schema.json",
+  "name": "quotes on style",
+  "quotes": [
+    {
+      "quote": "It's very easy to be different, but very difficult to be better.",
+      "source": "Jony Ive - former Apple Chief Designer"
+    }
+  ]
+}
