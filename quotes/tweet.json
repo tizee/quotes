@@ -1,0 +1,10 @@
+{
+  "$schema": "https://github.com/tizee/quotes/raw/main/schema.json",
+  "name": "Quotes from X",
+  "quotes": [
+    {
+      "quote": "CEO的品味决定了一个公司的上限。\n品味怎么理解呢？就是知道什么是好。\n知道什么人好，是你能找到好员工的前提条件\n知道什么技术好，是你能研发出好技术的前提条件\n知道什么产品好，是你能做出好产品的前提条件",
+      "source": "orange.ai"
+    }
+  ]
+}

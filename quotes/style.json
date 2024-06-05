@@ -1,10 +1,18 @@
 {
   "$schema": "https://github.com/tizee/quotes/raw/main/schema.json",
-  "name": "quotes on style",
+  "name": "quotes on style or design",
   "quotes": [
     {
       "quote": "It's very easy to be different, but very difficult to be better.",
       "source": "Jony Ive - former Apple Chief Designer"
+    },
+    {
+      "quote": "Everything starts from a dot.",
+      "source": "Wassily"
+    },
+    {
+      "quote": "Our goal is to create tools that are not only excellent but also deeply resonate with people, enhancing efficiency while providing an artistic experience.\nWe strive to blend technology with aesthetics, ultimately enriching lives and improving work efficiency through innovative digital tools.",
+      "source": "RoundRedDot Inc."
     }
   ]
 }
