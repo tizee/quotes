@@ -8,12 +8,6 @@ A collection of quotes or excerpts that I found from this lovely world.
 
 - I'd like to understand some quotes I like from reading. And through increasing the frequency of their appearance via `fortune` in terminal environment can remind me to apply the ideas I learn from them.
 
-## Types of quotes
-
-- 🚧 Mao-ze-dong anthology
-- 🚧 Mao-ze-dong chronicle
-- ✅ KK's 99 advice
-
 ## Fortune
 
 ### Install fortune
@@ -35,4 +29,5 @@ python3 generate.py --fortune
 ## Roadmap
 
 - ✅ `fortune` strings format
-
+- [ ] Web UI
+- [ ] backend quote service
