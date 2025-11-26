@@ -1,0 +1,23 @@
+{
+  "$schema": "https://github.com/tizee/quotes/raw/main/schema.json",
+  "name": "Steve Jobs quotes",
+  "quotes": [
+    {
+      "quote": "Ultimately it comes down to taste. It comes down to trying to expose yourself to the best things that humans have done and then try to bring those things in to what you're doing.",
+      "source": "Steve Jobs - TASTE AND TECHNOLOGY (ca. 1996)"
+    },
+    {
+      "quote": "I mean Picasso had a saying, he said good artists copy, great artists steal.",
+      "source": "Steve Jobs - TASTE AND TECHNOLOGY (ca. 1996)"
+    },
+    {
+      "quote": "I wouldn't be honest if some days I didn't question whether I made the right decision in getting involved....But I believe life is an intelligent thing--that things aren't random.",
+      "source": "Steve Jobs - RETURNING TO APPLE (1997)"
+    },
+    {
+      "quote": "My model for business is The Beatles.\nThere were four guys who kept each others, kind of, negative tendencies in check.\n They balanced each other, and the total was greater than the sum of the parts.\n And that's how I see business.\n You know, great things in business are never done by one person.\n They're done by a team of people.",
+      "source": "Steve Jobs - 60 Minutes interview in 2003. "
+    }
+
+  ]
+}

@@ -1,10 +1,14 @@
-.PHONY: clean, mrproper
+.PHONY: all fortune style check-json clean mrproper
 
 SCRIPT_DIR=$(PWD)/scripts
-all: fortune
+all: check-json fortune
 
-fortune: style
+fortune: style check-json
 	$(SCRIPT_DIR)/install_fortune.sh
+
+# validate all quote json files
+check-json:
+	@./scripts/validate_json.sh
 
 # sort imports and format
 style:
