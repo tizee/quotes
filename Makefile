@@ -17,6 +17,3 @@ style:
 
 clean:
 	rm -r output
-
-mrproper: clean
-	rm -rf fortune
