@@ -1,0 +1,538 @@
+{
+  "$schema": "https://github.com/tizee/quotes/raw/main/schema.json",
+  "name": "The Art of Doing Science and Engineering - Richard W. Hamming",
+  "quotes": [
+    {
+      "quote": "The purpose of this course is to prepare you for your technical future.\n本课程的目的是为你们的技术未来做准备。",
+      "source": "The Art of Doing Science and Engineering Learning to Learn-Richard W. Hamming-1. Orientation"
+    },
+    {
+      "quote": "Do not think the technical content is the course—it is only illustrative material. Style of thinking is the center of the course.\n不要认为技术内容就是课程——它只是说明性材料。思维方式才是本课程的中心。",
+      "source": "The Art of Doing Science and Engineering Learning to Learn-Richard W. Hamming-1. Orientation"
+    },
+    {
+      "quote": "I am concerned with educating and not training you.\n我关注的是教育你们，而不是培训你们。",
+      "source": "The Art of Doing Science and Engineering Learning to Learn-Richard W. Hamming-1. Orientation"
+    },
+    {
+      "quote": "I regard the study of successes as being basically more important than the study of failures.\n我认为研究成功从根本上来说比研究失败更重要。",
+      "source": "The Art of Doing Science and Engineering Learning to Learn-Richard W. Hamming-1. Orientation"
+    },
+    {
+      "quote": "As I will several times say, there are so many ways of being wrong and so few of being right, studying successes is more efficient, and furthermore when your turn comes you will know how to succeed rather than how to fail!\n正如我将多次提到的，犯错的方法太多，而正确的方法太少，因此研究成功更有效率，此外，当轮到你时，你将知道如何成功而不是如何失败！",
+      "source": "The Art of Doing Science and Engineering Learning to Learn-Richard W. Hamming-1. Orientation"
+    },
+    {
+      "quote": "Again, you will get out of this course only as much as you put in, and if you put in little effort beyond sitting in the class or reading the book, then it is simply a waste of your time.\n再次强调，你从本课程中获得的多少取决于你投入的多少，如果你投入的努力仅限于坐在教室里或阅读本书，那么这完全是浪费你的时间。",
+      "source": "The Art of Doing Science and Engineering Learning to Learn-Richard W. Hamming-1. Orientation"
+    },
+    {
+      "quote": "Either you will be a leader or a follower, and my goal is for you to be a leader.\n要么你将成为领导者，要么成为追随者，我的目标是让你成为领导者。",
+      "source": "The Art of Doing Science and Engineering Learning to Learn-Richard W. Hamming-1. Orientation"
+    },
+    {
+      "quote": "Education is what, when, and why to do things. Training is how to do it.\n教育是关于做什么、何时做以及为什么做。培训是关于如何做。",
+      "source": "The Art of Doing Science and Engineering Learning to Learn-Richard W. Hamming-1. Orientation"
+    },
+    {
+      "quote": "In a sense, the main difference between those who go far and those who do not is some people have a vision and the others do not and therefore can only react to the current events as they happen.\n从某种意义上说，走得远的人和走不远的人之间的主要区别在于，有些人有远见，而另一些人没有，因此只能对当前发生的事件做出反应。",
+      "source": "The Art of Doing Science and Engineering Learning to Learn-Richard W. Hamming-1. Orientation"
+    },
+    {
+      "quote": "No vision, not much of a future.\n没有远见，就没有多少未来。",
+      "source": "The Art of Doing Science and Engineering Learning to Learn-Richard W. Hamming-1. Orientation"
+    },
+    {
+      "quote": "Lastly, in a sense this is a religious course: I am preaching the message that, with apparently only one life to live on this earth, you ought to try to make significant contributions to humanity rather than just get along through life comfortably— that the life of trying to achieve excellence in some area is in itself a worthy goal for your life.\n最后，从某种意义上说，这是一门宗教课程：我宣扬的信息是，显然只有一次生命生活在这个地球上，你们应该努力为人类做出重大贡献，而不是仅仅舒适地度过一生——努力在某个领域追求卓越的生活本身就是你生命中值得追求的目标。",
+      "source": "The Art of Doing Science and Engineering Learning to Learn-Richard W. Hamming-1. Orientation"
+    },
+    {
+      "quote": "The unexamined life is not worth living.\n未经审视的生活不值得过。",
+      "source": "The Art of Doing Science and Engineering Learning to Learn-Richard W. Hamming-1. Orientation"
+    },
+    {
+      "quote": "Society is steadily moving from a material goods society to an information service society.\n社会正在稳步地从一个物质商品社会，向一个信息服务社会迈进。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming - 2 Foundations of the digital (discrete) revolution"
+    },
+    {
+      "quote": "As a guess I would say less than 25% of the people in the civilian workforce will be handling things; the rest will be handling information in some form or other.\n我猜想，在民用劳动力中，处理实物的人将少于25%；其余的人将以某种形式处理信息。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming - 2 Foundations of the digital (discrete) revolution"
+    },
+    {
+      "quote": "You must get the essentials of the job in mind and then design the mechanization to do that job rather than trying to mechanize the current version—if you want a significant success in the long run.\n你必须心中把握工作的本质，然后设计机械化方案来完成这项工作，而不是试图机械化当前的旧版本——如果你想获得长期的重大成功。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming - 2 Foundations of the digital (discrete) revolution"
+    },
+    {
+      "quote": "We must not forget, in all the enthusiasm for computer simulations, occasionally we must look at nature as she is.\n我们绝不能忘记，在对计算机模拟充满热情的同时，我们偶尔也必须去观察事物本来的面目（自然）。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming - 2 Foundations of the digital (discrete) revolution"
+    },
+    {
+      "quote": "I suggest you must rethink everything you ever learned on the subject, question every successful doctrine from the past, and finally decide for yourself its future applicability.\n我建议你必须重新审视你在该领域学到的一切，质疑过去所有成功的理论，并最终自行决定其未来的适用性。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming - 2 Foundations of the digital (discrete) revolution"
+    },
+    {
+      "quote": "Since, as I have repeatedly said, technical progress is going on at an increasing rate, it follows technological obsolescence will be much more rapid in the future than it is now. You will hardly get a system installed and working before there are significant improvements which you can adapt by mere program changes if you have used general-purpose chips and good programming methods rather than your special-purpose chip, which will almost certainly tie you down to your first design.\n正如我反复提到的，技术进步正以越来越快的速度进行，因此未来技术的淘汰速度会比现在快得多。如果你使用通用芯片和优秀的编程方法，你可以在系统安装和运行后仅通过程序更改来适应重大改进，而不是被专用芯片几乎必然束缚在你的初始设计上。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming - 2 Foundations of the digital (discrete) revolution"
+    },
+    {
+      "quote": "Great resistance to the adoption of the Arabic numerals (not in their original Arabic form) was encountered from officialdom, even to the extent of making them illegal, but in time (the 1400s) the practicalities and economic advantages triumphed over the more clumsy Roman (and earlier Greek) use of letters of the alphabet as symbols for the numbers.\n阿拉伯数字（非其原始形式）的采用遭到了官方的巨大阻力，甚至到了被定为非法的程度，但最终（15世纪），实用性和经济优势战胜了笨拙的罗马数字（以及更早的希腊字母数字系统）。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 3 History of computers—hardware"
+    },
+    {
+      "quote": "Our error was simply we thought only of the kinds of things we were currently doing, and did not think in the directions of entirely new applications of machines. The best experts at the time were flatly wrong! And not by a small amount either! Nor for the last time!\n我们的错误仅仅在于，我们只考虑了当时正在做的事情，而没有朝着机器全新应用的方向思考。当时最顶尖的专家们大错特错！而且错得离谱！这也不是最后一次发生这种情况！",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 3 History of computers—hardware"
+    },
+    {
+      "quote": "The purpose of computing is insight, not numbers.\n计算的目的是洞察力，而不是数字。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 3 History of computers—hardware"
+    },
+    {
+      "quote": "You assume the machine obeys the instructions one at a time, and does nothing more—it has no “free will” or any of the other attributes such as the self-awareness and self-consciousness we often associate with humans.\n你假定机器一次只执行一条指令，不多不少——它没有“自由意志”，也没有我们通常与人类联系在一起的自我意识和自觉性等其他属性。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 3 History of computers—hardware"
+    },
+    {
+      "quote": "Finally, a more complete, and more useful, Symbolic Assembly Program (SAP) was devised—after more years than you are apt to believe, during which time most programmers continued their heroic absolute binary programming.\n最终，一套更完整、更有用的符号汇编程序（SAP）被设计出来——经历了漫长到你可能难以置信的岁月，在此期间，大多数程序员仍在继续他们英勇的绝对二进制编程。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 4 History of computers—software"
+    },
+    {
+      "quote": "I had reviewed for a journal the EDSAC book on programming, and there in Appendix D was a peculiar program written to get a large program into a small storage. It was an interpreter... But if it was in Appendix D, did they see the importance? I doubt it!\n我曾为一本期刊审阅EDSAC的编程书籍，附录D中有一个奇怪的程序，旨在将一个大程序加载到小存储空间中。它是一个解释器... 但如果它被放在附录D中，他们是否看到了它的重要性？我对此表示怀疑！",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 4 History of computers—software"
+    },
+    {
+      "quote": "Finally, after a long time, I began to realize it was the economics, the applications, which probably would dominate the evolution of computers. Much, but by no means all, of what would happen had to be economically sound.\n最终，在很长一段时间之后，我开始意识到，很可能是**经济学和应用**主导了计算机的演变。即将发生的事情，尽管并非全部，但绝大部分都必须在经济上是合理的 [1-3]。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 5 History of computer applications"
+    },
+    {
+      "quote": "In such a rapidly changing field as computer software, if the payoff is not in the near future then it is doubtful it will ever pay off.\n在像计算机软件这样快速变化的领域，如果投资回报不能在不久的将来实现，那么它很可能永远也不会有回报 [2]。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 5 History of computer applications"
+    },
+    {
+      "quote": "Among other evils of micromanagement is lower management does not get the chance to make responsible decisions and learn from their mistakes, but rather, because the older people finally retire, then lower management finds itself as top management—without having had many real experiences in management!\n微观管理的其他弊端之一是，基层管理人员没有机会做出负责任的决策并从错误中学习，结果是，当老一辈人最终退休时，基层管理人员发现自己升任高层，却缺乏许多真正的管理经验 [7]！",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 5 History of computer applications"
+    },
+    {
+      "quote": "The **not invented here (NIH) syndrome** is one of the major curses of our society, and computers, with their ability to encourage micromanagement, are a significant factor.\n**“非我发明症候群”**（NIH）是我们社会的主要弊病之一，而计算机凭借其鼓励微观管理的能力，是造成这一现象的重要因素 [8]。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 5 History of computer applications"
+    },
+    {
+      "quote": "When you successfully use a computer you usually do an **equivalent job, not the same old one**.\n当你成功使用一台计算机时，你通常是在完成一项**等效的工作，而不是重复过去的老一套** [9, 10]。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 5 History of computer applications"
+    },
+    {
+      "quote": "Before we get too far I need to remind you computers manipulate symbols, not information; we are simply unable to say, let alone write a program for, what we mean by the word “information.”\n在我们深入之前，我需要提醒你，计算机操纵的是符号，而不是信息；我们根本无法阐明“信息”这个词的含义，更不用说为其编写程序了。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 6 Limits of computer applications—AI–I"
+    },
+    {
+      "quote": "Among other troubles with this idea [expert systems] is that in many fields, especially in medicine, the world-famous experts are in fact not much better than the beginners! It has been measured in many different studies!\n这种想法（专家系统）的弊端之一是，在许多领域，尤其是在医学领域，世界知名的专家实际上并不比初学者高明多少！许多不同的研究都证明了这一点！",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 6 Limits of computer applications—AI–I"
+    },
+    {
+      "quote": "Another trouble is experts seem to use their subconscious, and they can only report their conscious experience in making a diagnosis.\n另一个问题是，专家似乎会动用他们的潜意识，但在做出诊断时，他们只能报告他们的有意识经验。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 6 Limits of computer applications—AI–I"
+    },
+    {
+      "quote": "Thus you cannot afford to either believe or disbelieve—you must come to your own terms with the vexing problem, “To what extent can machines think?”\n因此，你不能负担得起完全相信或完全不相信的后果——你必须就这个令人烦恼的问题，“机器能在多大程度上思考？” 达成你自己的看法。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Chapter 6 Limits of computer applications—AI–I"
+    },
+    {
+      "quote": "From large organizations new effects can arise. For example, we believe there is no friction between molecules, but most large structures show this effect—it is an effect which arises from the organization of smaller parts which do not show the effect.\n从大型组织中可能会产生新的效应。例如，我们相信分子之间没有摩擦，但大多数大型结构却表现出这种效应——这是源于不具备该效应的小部分组织起来所产生的效应。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 7 Limits of computer applications—AI–II"
+    },
+    {
+      "quote": "Thus we have a paradox: the existence of the program automatically turns you against believing it is other than a rote process.\n因此，我们面临一个悖论：程序的存在会自动使你反对相信它不仅仅是一个死记硬背的过程。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Chapter 7 Limits of computer applications—AI–II"
+    },
+    {
+      "quote": "This is the type of AI that I am interested in—what can the human and machine do together, and not in the competition which can arise.\n这是我感兴趣的那种人工智能——人类和机器可以一起做些什么，而不是专注于可能出现的竞争。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Chapter 7 Limits of computer applications—AI–II"
+    },
+    {
+      "quote": "In restricted areas, where there can be no surprises, robots are fairly effective, but where unexpected things can happen simple robots are often in serious trouble. A routine response to non-routine situations can spell disaster.\n在没有意外的受限区域，机器人相当有效，但在可能发生意外的情况下，简单的机器人往往会陷入困境。对非常规情况做出常规反应可能导致灾难。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Chapter 7 Limits of computer applications—AI–II"
+    },
+    {
+      "quote": "Just because you want to believe that machines can think does not mean they can; it may only be wishful thinking!\n仅仅因为你希望相信机器可以思考，并不意味着它们真的可以；那可能只是你一厢情愿。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 8 Limits of computer applications—AI–III"
+    },
+    {
+      "quote": "Art Samuel’s checkers program “learned” from experience, so machines can apparently learn from experience.\n阿特·塞缪尔的跳棋程序“从经验中学习”，所以机器显然可以从经验中学习。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 8 Limits of computer applications—AI–III"
+    },
+    {
+      "quote": "That is my task, to make you think on this awkward topic, and not to give any answers.\n我的任务是让你思考这个棘手的话题，而不是提供任何答案。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Chapter 8 Limits of computer applications—AI–III"
+    },
+    {
+      "quote": "In the computing field this is often called the “Hamming distance” for reasons which will appear in a later chapter.\n在计算领域，这通常被称为“汉明距离”，原因将在后面的章节中出现。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 9 n–Dimensional space"
+    },
+    {
+      "quote": "The truth is, in complex design, for various coordinates we may use any of the three metrics, all mixed up together, so the design space is not as portrayed above, but is a mess of bits and pieces.\n事实是，在复杂设计中，对于不同的坐标，我们可能会使用这三种度量中的任意一种，它们混合在一起，所以设计空间并非如上所述，而是一堆零碎的混乱。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 9 n–Dimensional space"
+    },
+    {
+      "quote": "Recall any meaning a symbol may have depends on how it is processed; there is no inherent meaning to the bits the machine uses.\n回想一下，符号可能具有的任何意义都取决于它如何被处理；机器使用的比特本身不具有固有的意义。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 10 Coding theory—I"
+    },
+    {
+      "quote": "When in the late 1940s C.E. Shannon created information theory there was a general belief he should call it communication theory, but he insisted on the word “information,” and it is exactly that word which has been the constant source of both interest and of disappointment in the theory.\n在20世纪40年代末，香农（C.E. Shannon）创建信息理论时，人们普遍认为他应该称之为通信理论，但他坚持使用“信息”一词，而正是这个词，成为了该理论兴趣和失望的持续来源。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 10 Coding theory—I"
+    },
+    {
+      "quote": "It will turn out (McMillan’s theorem) that instantaneous decodability costs nothing in practice, hence we will stick to instantaneously uniquely decodable codes.\n事实证明（麦克米伦定理），瞬时可解码性在实践中没有额外的成本，因此我们将坚持使用瞬时唯一可解码的代码。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Chapter 10 Coding theory—I"
+    },
+    {
+      "quote": "Two things should be clear from the previous chapter. First, we want the average length L of the message sent to be as small as we can make it (to save the use of facilities).\n从上一章可以清楚地看出两点。首先，我们希望发送消息的平均长度L尽可能小（以节省设施的使用）。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 11 Coding theory—II"
+    },
+    {
+      "quote": "Rule: Huffman coding pays off when the probabilities of the symbols are very different, and does not pay off much when they are all rather equal.\n规则：当符号的概率差异很大时，霍夫曼编码的回报很高；而当它们的概率都相当接近时，回报则不大。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 11 Coding theory—II [5]"
+    },
+    {
+      "quote": "It is true at that time I was already very interested in the process of discovery, believing in many cases the method of discovery is more important than what is discovered.\n那时我确实已经对发现的过程非常感兴趣，相信在许多情况下，发现的方法比被发现的东西更重要。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 12 Error-correcting codes"
+    },
+    {
+      "quote": "Information theory was created by C.E. Shannon in the late 1940s. The management of Bell Telephone Labs wanted him to call it “communication theory,” as that is a far more accurate name...\n信息理论由C.E.香农在20世纪40年代末创立。贝尔电话实验室的管理层希望他将其命名为“通信理论”，因为那是一个更准确的名称...",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 13 Information theory"
+    },
+    {
+      "quote": "The decisive step is that Shannon averaged over all possible code books to find the average error!\n关键性的一步在于，香农对所有可能的代码本进行了平均，以找到平均错误！",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Chapter 13 Information theory"
+    },
+    {
+      "quote": "If the average over all codes has a suitably small error, then at least one code must be suitable—hence there exists at least one suitable encoding system. This is Shannon’s important result, the “noisy coding theorem.”\n如果所有代码的平均错误率足够小，那么至少存在一种合适的代码——因此，至少存在一个合适的编码系统。这就是香农的重要成果，即“含噪编码定理”。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Chapter 13 Information theory"
+    },
+    {
+      "quote": "Much of what computers process are signals from various sources, and we have already discussed why they are often in the form of a stream of numbers from an equally spaced sampling system.\n计算机处理的很大一部分是来自各种信号源的信号，我们已经讨论了为什么它们通常以等间隔采样系统的数字流形式出现。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 14 Digital filters—I"
+    },
+    {
+      "quote": "When digital filters first arose they were viewed merely as a variant of the classical analog filters; people did not see them as essentially new and different.\n当数字滤波器首次出现时，它们仅仅被视为经典模拟滤波器的变体；人们没有将它们视为本质上新颖和不同的东西。",
+      "source": "The Art of Doing Science and Engineering: Learning to Learn – Richard W. Hamming – Chapter 15 Digital filters—II"
+    },
+    {
+      "quote": "In the method sketched above, you must choose both the N, the number of terms to be kept, and the particular window shape, and if what you get does not suit you, then you must make new choices. It is a 'trial and error' design method.\n在上述方法中，你必须选择要保留的项数N以及特定的窗形，如果你得到的结果不符合要求，你就必须重新选择。这是一种‘试错’设计方法。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 16 Digital filters—III"
+    },
+    {
+      "quote": "We now turn to recursive filters, which have the form... and we use both old and current signal values, un, and old values of the outputs, yn. This is classical, and arises because we are often processing a signal in real time and do not have access to future values of the signal.\n我们现在转向递归滤波器，其形式是……我们既使用旧的和当前的信号值 $u_n$，也使用旧的输出值 $y_n$。这是经典形式，出现的原因是我们在实时处理信号时，通常无法获取信号的未来值。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 17 Digital filters—IV"
+    },
+    {
+      "quote": "I have already mentioned my serious worries that we are depending on simulation more and more, and are looking at reality less and less, and hence seem to be approaching the old scholastic attitude that what is in the textbooks is reality and does not need constant experimental checks.\n我已经提到我严重担心我们越来越依赖模拟，而越来越少地审视现实，因此似乎正接近于旧有的经院主义态度——即书本中的内容就是现实，不需要持续的实验检验。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 18 Simulation—I"
+    },
+    {
+      "quote": "I often doubt hundreds more trajectories would have taught me as much—I simply do not know. But that is why I am suspicious, to this day, of getting too many solutions and not doing enough very careful thinking about what you have seen. Volume output seems to me to be a poor substitute for acquiring an intimate feeling for the situation being simulated.\n我常常怀疑多计算数百条轨迹是否能教会我更多——我只是不知道。但这正是我至今仍对获得过多解而没有对所见进行足够仔细思考持怀疑态度的原因。在我看来，大量的输出是获得对模拟情境的深入感知（intimate feeling）的糟糕替代品。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 18 Simulation—I"
+    },
+    {
+      "quote": "I strongly advise, when possible, to start with the simple simulation and evolve it to a more complete, more accurate, simulation later so the insights can arise early.\n我强烈建议，如果可能，从简单的模拟开始，然后逐步将其发展为更完整、更准确的模拟，以便尽早获得洞察力。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 18 Simulation—I"
+    },
+    {
+      "quote": "Had we not caught the error I doubt any real, live experiments involving airplanes would have revealed the decrease in maneuverability which resulted from my interpretation. That is why, to this day, I insist a person with the intimate understanding of what is to be simulated must be involved in the detailed programming.\n如果我们没有及时发现那个错误，我怀疑任何涉及飞机的真实实验都无法揭示由我的解释所导致的机动性下降。这就是为什么直到今天，我仍然坚持认为，对模拟内容有深入理解的人必须参与到详细的编程工作中。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 18 Simulation—I"
+    },
+    {
+      "quote": "Since important decisions must rely on simulation, it is essential that its validity be tested, and that its advocates be able to describe the level of authentic representation which they achieved.\n既然重要的决策必须依赖模拟，那么对其有效性进行测试，并要求其支持者能够描述他们所达到的真实表征水平，是至关重要的。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 19 Simulation—II"
+    },
+    {
+      "quote": "I would put the problem slightly differently: Why should anyone believe the simulation is relevant?\n我会稍微换个方式来提出这个问题：为什么有人应该相信这个模拟是相关的？",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 19 Simulation—II"
+    },
+    {
+      "quote": "I shall show both of these assumptions [garbage in, garbage out, and its converse] can be false.\n我将证明这两个假设（即“垃圾进，垃圾出”以及其反面）都可能是错误的。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 20 Simulation—III"
+    },
+    {
+      "quote": "Hence the accuracy of the solution depends on where you are talking about it, not any absolute accuracy over all.\n因此，解的准确性取决于你讨论的是哪个位置，而不是整体的绝对准确性。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 20 Simulation—III"
+    },
+    {
+      "quote": "I had earlier realized the nature of the field trials being simulated was such that small deviations from the proposed trajectory would be corrected automatically by the guidance system! I was dealing with a strongly convergent direction field.\n我早就意识到，所模拟的实地试验的性质是，与预定轨迹的微小偏差会通过制导系统自动纠正！我当时处理的是一个强收敛的方向场。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 20 Simulation—III"
+    },
+    {
+      "quote": "Experience has taught me that generally a decisive boss is better than a waffling one—you know where you stand and can get on with the work which needs to be done!\n经验告诉我，通常一个果断的老板胜过一个犹豫不决的老板——你知道自己的立场，可以继续做需要完成的工作！",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 20 Simulation—III"
+    },
+    {
+      "quote": "One of the reasons for taking up the topic of fiber optics is that its significant history occurred within my scientific lifetime, and I can therefore give you a report of how the topic looked to me at the time it was occurring.\n探讨光纤主题的原因之一是，它的重要历史发生在我的科学生命周期内，因此我可以向你们报告该主题在当时是如何呈现在我面前的。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 21 Fiber optics"
+    },
+    {
+      "quote": "I can think of no better way than establishing in you the habit of anticipating things and leading rather than passively following. ... 'Luck favors the prepared mind.'\n我想不到比在你们身上建立起预见事物并主导（而非被动跟随）的习惯更好的方式。……‘机会青睐有准备的头脑’。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 21 Fiber optics"
+    },
+    {
+      "quote": "There is a story from ancient Greek times of a mathematician telling a ruler there were royal roads for him to walk on, and royal messengers to carry his mail, but there was no royal road to geometry.\n有一个古希腊的故事，一位数学家告诉一位统治者，有皇家大道供他行走，有皇家信使为他送信，但通往几何学没有皇家大道。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 22 Computer-aided instruction (CAI)"
+    },
+    {
+      "quote": "Hence all of past history, with its many, many claims of easy learning, speaks eloquently against the current rash of promises, but it cannot, of course, prove some new gimmick will not succeed.\n因此，所有过去的、关于轻松学习的诸多主张的历史，都在雄辩地反对当前这股承诺浪潮，但它当然无法证明某种新的噱头不会成功。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 22 Computer-aided instruction (CAI)"
+    },
+    {
+      "quote": "The Hawthorne effect strongly suggests the proper teaching method will always to be in a state of experimental change, and it hardly matters just what is done; **all that matters is both the professor and the students believe in the change.**\n霍桑效应强烈暗示，合适的教学方法将始终处于实验性的变化状态中，具体做了什么几乎不重要；**重要的是教授和学生都相信这种变化。**",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 22 Computer-aided instruction (CAI)"
+    },
+    {
+      "quote": "Another terrible fact is that carefully watching the students to see what happens in practice has shown a good student often picks what they know is the wrong answer simply out of either boredom or amusement to see what the book will say.\n另一个糟糕的事实是，仔细观察学生在实践中做的事情表明，好学生经常会选择他们知道的错误答案，仅仅是出于无聊或好奇想看看书会怎么说。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 22 Computer-aided instruction (CAI)"
+    },
+    {
+      "quote": "Unfortunately, in the future we can expect corporations and other large organizations will have removed much of the need for just such rote learning (computers can often do it better and cheaper) and employment will usually require judgment on your part.\n遗憾的是，未来我们可以预期公司和其他大型组织将消除对这类死记硬背学习的大部分需求（计算机通常可以做得更好、更便宜），而工作通常需要你做出判断。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 22 Computer-aided instruction (CAI)"
+    },
+    {
+      "quote": "It is worthwhile, now and then, to examine these background things which have never held your close attention before, since great steps forward often arise from such actions, and seldom otherwise.\n偶尔审视一下这些以前从未引起你密切关注的背景事物是值得的，因为重大的进步往往源于此类行动，而很少源于其他方面。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 23 Mathematics"
+    },
+    {
+      "quote": "Thus Platonic mathematicians will say they “discovered” a result, not that they “created” it. I “discovered” error-correcting codes, rather than “creating” them, if I am a Platonist.\n因此，柏拉图主义的数学家会说他们是“发现”了一个结果，而不是“创造”了它。如果我是柏拉图主义者，我会说我“发现”了纠错码，而不是“创造”了它们。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 23 Mathematics"
+    },
+    {
+      "quote": "Thus, for me at least, mathematics does not exclusively follow from the assumptions, but rather very often the assumptions follow from the theorems we “believe are true.”\n因此，至少对我来说，数学并非完全遵循假设，而假设往往是遵循我们“相信是真的”定理而来的。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 23 Mathematics"
+    },
+    {
+      "quote": "Having claimed there was neither “truth” nor “meaning” in the mathematical symbols, I am now stuck with explaining the simple fact that mathematics is used and is an increasingly central part of our society, especially in science and engineering.\n在声称数学符号中既没有“真理”也没有“意义”之后，我现在不得不解释一个简单的事实：数学被使用并日益成为我们社会，尤其是在科学和工程领域的核心部分。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 23 Mathematics"
+    },
+    {
+      "quote": "We will, in time, I believe, want mathematical models in which the whole is not the sum of the parts, but the whole may be much more, due to the “synergism” between the parts.\n我相信，随着时间的推移，我们将需要数学模型，其中整体不等于部分之和，而是由于部分之间的“协同作用”，整体可能远超部分之和。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 23 Mathematics"
+    },
+    {
+      "quote": "You should realize that in all of science there are only descriptions of how things happen and nothing about why they happen.\n你应该意识到，在所有科学中，只有关于事物如何发生的描述，而没有关于它们为什么发生的描述。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 24 Quantum mechanics"
+    },
+    {
+      "quote": "Moral: there need not be a unique form of a theory to account for a body of observations; instead, two rather different-looking theories can agree on all the predicted details. You cannot go from a body of data to a unique theory!\n教训：为了解释一组观测结果，理论不必具有唯一的形式；相反，两种看起来截然不同的理论可以在所有预测细节上达成一致。你无法从一组数据推导出一个唯一的理论！",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 24 Quantum mechanics"
+    },
+    {
+      "quote": "The Aspect experiments apparently force you to accept non-local effects—what happens at one place is affected by remote things, and the effect which is transmitted does not, in any real sense, pass through the local areas in between but gets there immediately.\nAspect实验显然迫使你接受非定域效应——一个地方发生的事情会受到远程事物的影响，并且这种传递的效应在任何真实的意义上都不会通过中间的局部区域，而是立即到达。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 24 Quantum mechanics"
+    },
+    {
+      "quote": "Creativity, originality, novelty, and other such words are regarded as “good things,” and we often fail to distinguish between them—indeed, we find them hard to define. Surely we do not need three words with exactly the same meaning.\n创造力、原创性、新颖性等词汇都被视为“好东西”，但我们常常未能区分它们——事实上，我们发现它们很难定义。当然，我们不需要三个含义完全相同的词。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 25 Creativity"
+    },
+    {
+      "quote": "Evidently “not done before” is hardly enough to make anything important or original.\n显然，“以前从未做过”远不足以使某事物变得重要或具有原创性。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 25 Creativity"
+    },
+    {
+      "quote": "Evidently we want the word “creative” to include the concept of value—but value to whom?\n显然，我们希望“创造性”一词包含“价值”的概念——但对谁而言的价值？",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 25 Creativity"
+    },
+    {
+      "quote": "Creativity seems, among other things, to be “usefully” putting together things which were not perceived to be related before, and it may be the initial psychological distance between the things which counts most.\n创造力，在某种程度上，似乎是“有效地”将那些以前被认为不相关的事物结合起来，而事物之间最初的心理距离可能才是最重要的。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 25 Creativity"
+    },
+    {
+      "quote": "This stage, moreover, requires your emotional involvement, your commitment to finding a solution, since without a deep emotional involvement you are not likely to find a really fundamental, novel solution.\n此外，这个阶段需要你的情感投入，你对找到解决方案的承诺，因为如果没有深厚的情感投入，你就不太可能找到一个真正基础且新颖的解决方案。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 25 Creativity"
+    },
+    {
+      "quote": "The monomaniacal pursuit often does not work; the temporary dropping of the idea sometimes seems to be essential to let the subconscious find a new approach.\n痴迷式的追求往往行不通；有时，暂时放下想法似乎对于让潜意识找到新方法至关重要。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 25 Creativity"
+    },
+    {
+      "quote": "My method, and it is implied above, is to saturate the subconscious with the problem, try to not think seriously about anything else for hours, days, or even weeks, and thus the subconscious... is then left with only the problem to mull over.\n我的方法（如上所述）是让潜意识完全沉浸在问题中，在数小时、数天甚至数周内尽量不认真思考其他任何事情，这样潜意识……就只剩下对问题的反复思考。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 25 Creativity"
+    },
+    {
+      "quote": "Probably the most important tool in creativity is the use of an analogy. Something seems like something else which we knew in the past.\n在创造力中，最重要的工具可能是运用类比。某些事物看起来像我们过去了解过的其他事物。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 25 Creativity"
+    },
+    {
+      "quote": "This flexible access to pieces of knowledge seems to come from looking at knowledge while you are acquiring it from many different angles, turning over any new idea to see its many sides before filing it away.\n这种对知识片段的灵活获取似乎来自于在学习知识时从多个不同角度审视它，在将任何新想法归档之前，要对其进行多方面的推敲。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 25 Creativity"
+    },
+    {
+      "quote": "Without self-confidence you are not likely to create great new things. There is a thin line between having enough self-confidence and being overconfident.\n没有自信，你就不可能创造出伟大的新事物。充足的自信和过度自信之间只有一线之隔。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 25 Creativity"
+    },
+    {
+      "quote": "An expert is one who knows everything about nothing; a generalist knows nothing about everything.\n专家是知晓关于“无物”的一切的人；通才则是对“万物”一无所知的人。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 26 Experts"
+    },
+    {
+      "quote": "In an argument between a specialist and a generalist, the expert usually wins by simply (1) using unintelligible jargon, and (2) citing their specialist results, which are often completely irrelevant to the discussion.\n在专家和通才的争论中，专家通常通过 (1) 使用晦涩难懂的术语，以及 (2) 引用他们专业的、但通常与讨论完全无关的结果来取胜。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 26 Experts"
+    },
+    {
+      "quote": "The person who thinks they understand the problem and does not is usually more of a curse (blockage) than the person who knows they do not understand the problem.\n那些自以为理解问题但实则不然的人，通常比那些知道自己不理解问题的人更具危害（阻碍性）。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 26 Experts"
+    },
+    {
+      "quote": "Thus really new ideas seldom arise from the experts in the field. You cannot blame them too much, since it is more economical to try the old, successful ways before trying to find new ways of looking and thinking.\n因此，真正的新思想很少来自于该领域的专家。你不能过多地责怪他们，因为在尝试寻找新的观察和思考方式之前，尝试旧的、成功的方法在经济上更划算。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 26 Experts"
+    },
+    {
+      "quote": "If an expert says something can be done he is probably correct, but if he says it is impossible then consider getting another opinion.\n如果专家说某事可以做到，他可能是对的；但如果他说某事是不可能的，那么请考虑征求其他意见。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 26 Experts"
+    },
+    {
+      "quote": "it appears that most of the great innovations come from outside the field, and not from the insiders.\n看来大多数重大的创新都来自领域之外，而不是内部人士。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 26 Experts"
+    },
+    {
+      "quote": "The expert faces the following dilemma. Outside the field there are a large number of genuine crackpots with crazy ideas, but among them may also be the crackpot with the new, innovative idea which is going to triumph.\n专家面临着以下困境：在领域之外，有大量带着疯狂想法的真正的怪人，但其中也可能隐藏着带着注定成功的新创新想法的怪人。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 26 Experts"
+    },
+    {
+      "quote": "In some respects the expert is the curse of our society, with their assurance they know everything, and without the decent humility to consider they might be wrong.\n在某些方面，专家是我们社会的祸根，他们坚信自己无所不知，缺乏应有的谦逊来考虑自己可能出错。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 26 Experts"
+    },
+    {
+      "quote": "What you did to become successful is likely to be counterproductive when applied at a later date.\n你赖以成功的做法，在以后再应用时很可能会适得其反。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 26 Experts"
+    },
+    {
+      "quote": "It has been my experience, as well as the experience of many others who have looked, that data is generally much less accurate than it is advertised to be.\n根据我以及许多其他观察者的经验，数据通常远没有宣传的那么准确。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 27 Unreliable data"
+    },
+    {
+      "quote": "Why do you believe the test equipment is as reliable as what is being tested?\n你为什么相信测试设备和被测试的东西一样可靠？",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 27 Unreliable data"
+    },
+    {
+      "quote": "There is never time to do the job right, but there is always time to fix it later, especially in computer software!\n永远没有时间把工作做对，但总有时间以后去修补，尤其是在计算机软件方面！",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 27 Unreliable data"
+    },
+    {
+      "quote": "You cannot even trust a machine to gather data about itself correctly!\n你甚至不能相信机器能正确地收集关于自身的数据！",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 27 Unreliable data"
+    },
+    {
+      "quote": "No matter how sacred the data and urgent the answer, I have learned to pretest it for consistency and outliers at a minimum.\n无论数据多么神圣，答案多么紧急，我学会了至少要事先测试其一致性和异常值。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 27 Unreliable data"
+    },
+    {
+      "quote": "The average amount the new values fell outside the old errors was 5.267 as far; the last column which was added by me, Figure 27.1. Now, you would suppose the values of the physical constants had been carefully computed, yet how wrong they were!\n新值超出旧误差的平均距离是 5.267 倍；这是我添加的最后一栏，图 27.1。你可能会认为物理常数的值是经过仔细计算的，然而它们错得多么离谱！",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 27 Unreliable data"
+    },
+    {
+      "quote": "The truth of the matter is you adjust for low variance; what else can you do? But it is this low-variance data you turn over to the statistician and is used to estimate the variability.\n事实是你进行了调整以获得低方差；除此之外你还能做什么？但正是这种低方差数据被你交给了统计学家，用于估计变异性。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 27 Unreliable data"
+    },
+    {
+      "quote": "90% of the time, the next independent measurement will fall outside the previous 90% confidence limits! This rule is in fact a bit of an exaggeration, but stated that way it is a memorable rule to recall—most published measurement accuracies are not anywhere near as good as claimed.\n90% 的时间里，下一次独立测量将落在上一次 90% 置信区间之外！这条规则虽然有点夸大，但这样表述很容易记住——大多数公布的测量精度远没有声称的那么好。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 27 Unreliable data"
+    },
+    {
+      "quote": "A man was examining the construction of a cathedral. ... She said, “I am helping build a cathedral.”\n一个人正在查看一座大教堂的建造情况。……她回答说：“我正在帮助建造一座大教堂。”",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 28 Systems engineering"
+    },
+    {
+      "quote": "Systems engineering is the attempt to keep at all times the larger goals in mind and to translate local actions into global results.\n系统工程是试图始终将更大的目标铭记于心，并将局部行动转化为全局结果的尝试。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 28 Systems engineering"
+    },
+    {
+      "quote": "The first rule of systems engineering is: If you optimize the components, you will probably ruin the system performance.\n系统工程的第一条规则是：如果你优化了组件，你很可能会破坏系统的整体性能。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 28 Systems engineering"
+    },
+    {
+      "quote": "Cramming is clearly a waste of time. You really know it is, but the behavior of most of you is a flat denial of this truth.\n临时抱佛脚（考前突击）显然是浪费时间。你心底里清楚这一点，但你们大多数人的行为却是对这个事实的彻底否认。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 28 Systems engineering"
+    },
+    {
+      "quote": "The closer you meet specifications, the worse the performance will be when overloaded.\n你越是严格地满足规格要求，在系统超载时性能就会越差。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 28 Systems engineering"
+    },
+    {
+      "quote": "Part of systems engineering design is to prepare for changes so they can be gracefully made and still not degrade the other parts.\n系统工程设计的一部分是为变化做好准备，以便这些变化能够优雅地实现，同时又不会降低其他部分的性能。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 28 Systems engineering"
+    },
+    {
+      "quote": "I suppose the heart of systems engineering is the acceptance that there is neither a definite fixed problem nor a final solution, rather evolution is the natural state of affairs.\n我想，系统工程的核心在于接受既没有明确固定的问题，也没有最终的解决方案，而演化才是事物的自然状态。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 28 Systems engineering"
+    },
+    {
+      "quote": "The way you choose to measure things controls to a large extent what happens.\n你选择测量事物的方式在很大程度上决定了结果。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 29 You get what you measure"
+    },
+    {
+      "quote": "The current popular example of this effect is the use of the bottom line of the profit and loss statement every quarter to estimate how well a company is doing, which produces a company interested mainly in short-term profits and which has little regard to long-term profits.\n目前这种效应的一个流行例子是，使用每季度损益表的底线来评估一家公司的经营状况，这导致公司主要关注短期利润，而很少顾及长期利润。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 29 You get what you measure"
+    },
+    {
+      "quote": "Accuracy of measurement tends to get confused with relevance of measurement, much more than most people believe.\n测量的准确性往往会与测量的相关性相混淆，其程度远超大多数人的想象。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 29 You get what you measure"
+    },
+    {
+      "quote": "That a measurement is accurate, reproducible, and easy to make does not mean it should be done; instead, a much poorer one which is more closely related to your goals may be much preferable.\n一个测量结果是准确、可重复且易于获得的，并不意味着它就应该被执行；相反，一个质量较差但与你的目标更密切相关的测量可能更可取。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 29 You get what you measure"
+    },
+    {
+      "quote": "It is well known the drunken sailor who staggers to the left or right with n independent random steps will, on the average, end up about $\\sqrt{n}$ steps from the origin. ... a career with a vision will get you a distance proportional to n, while no vision will get you only the distance $\\sqrt{n}$.\n众所周知，醉酒水手以n次独立的随机步子左右摇晃，平均而言，最终会离原点大约$\\sqrt{n}$步。……而一个有远见的职业生涯会让你走完与n成比例的距离，没有远见只会让你走完$\\sqrt{n}$的距离。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 29 You get what you measure"
+    },
+    {
+      "quote": "As a result it is observed intelligence has a normal distribution in the population! Of course it has, it was made to be that way! Furthermore, they have defined intelligence to be what is measured by the calibrated exam, and if that is the definition of intelligence, then of course intelligence is normally distributed.\n结果观察到智力在人群中呈正态分布！当然会是这样，它被设计成就是这样的！此外，他们将智力定义为校准考试所测量的东西，如果这就是智力的定义，那么智力当然是呈正态分布的。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 29 You get what you measure"
+    },
+    {
+      "quote": "At the higher levels the current members choose the next generation—and they tend strongly to select people like themselves, people with whom they will feel comfortable. ... You tend to get inbreeding—but you also tend to get an organization personality.\n在更高的层次上，现有成员选择下一代——他们强烈倾向于选择像自己一样的人，那些让他们感到舒服的人。……你容易得到近亲繁殖——但你也会得到一种组织个性。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 29 You get what you measure"
+    },
+    {
+      "quote": "The programming effort is often measured by the number of lines of code—what easier measure is there? ... That measure of software productivity, which is widely used, is one of the reasons why we have such bloated software systems these days.\n编程工作通常是通过代码行数来衡量的——还有比这更容易的衡量标准吗？……衡量软件生产力的这种方法被广泛使用，是导致我们如今拥有如此臃肿的软件系统的原因之一。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 29 You get what you measure"
+    },
+    {
+      "quote": "The inevitable changes that will come in the future, and the increasing power of computers to automatically monitor things, means many new measuring systems will come into use—ones you yourself may have to design, organize, and install.\n未来必然会发生的变化，以及计算机自动监控事物能力的增强，意味着许多新的测量系统将被投入使用——其中有些可能需要你自己设计、组织和安装。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 29 You get what you measure"
+    },
+    {
+      "quote": "It is important because as far as I know each of you has but one life to lead, and it seems to me it is better to do significant things than to just get along through life to its end.\n这很重要，因为据我所知，你们每个人都只有一次生命，在我看来，与其碌碌无为地度过一生，不如做些有意义的事情。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 30 You and your research"
+    },
+    {
+      "quote": "I want to get you to the state where you will say to yourself, 'Yes, I would like to do first-class work. If Hamming could, then why not me?'\n我想让你们达到这样的状态：你会对自己说，‘是的，我想做一流的工作。如果哈明能做到，为什么我不行？’",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 30 You and your research"
+    },
+    {
+      "quote": "The major objection cited by people against striving to do great things is the belief that it is all a matter of luck. I have repeatedly cited Pasteur’s remark, 'Luck favors the prepared mind.'\n人们反对努力做伟大事情的主要理由是认为这完全是运气使然。我曾反复引用巴斯德的话：‘机会青睐有准备的头脑。’",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 30 You and your research"
+    },
+    {
+      "quote": "If it were mainly luck, then great things should not tend to be done repeatedly by the same people.\n如果主要靠运气，那么伟大的事情就不应该倾向于由同一个人反复完成。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 30 You and your research"
+    },
+    {
+      "quote": "If you do not work on important problems, how can you expect to do important work?\n如果你不研究重要的问题，你如何期望做出重要的工作？",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 30 You and your research"
+    },
+    {
+      "quote": "Courage, or confidence, is a property to develop in yourself. Look at your successes, and pay less attention to failures than you are usually advised to do in the expression, 'Learn from your mistakes.'\n勇气，或者说自信，是你应该培养的一种品质。要关注你的成功，而少关注失败，而不是像通常建议的‘从错误中学习’那样。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 30 You and your research"
+    },
+    {
+      "quote": "The difference between having a vision and not having a vision is almost everything, and doing excellent work provides a goal which is steady in this world of constant change.\n有远见和没有远见之间的区别几乎决定了一切，而且在这样一个不断变化的世界中，追求卓越的工作提供了一个稳定的目标。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 30 You and your research"
+    },
+    {
+      "quote": "All these stories show that the conditions you tend to want are seldom the best ones for you—the interaction with harsh reality tends to push you into significant discoveries which otherwise you would never have thought about while doing pure research in a vacuum of your private interests.\n所有这些故事都表明，你倾向于想要的条件很少是对你最好的条件——与严酷现实的互动往往会推动你做出重大的发现，否则你在私人兴趣的真空纯研究中永远不会想到这些。",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 30 You and your research"
+    },
+    {
+      "quote": "Great people can tolerate ambiguity; they can both believe and disbelieve at the same time. You must be able to believe your organization and field of research is the best there is, but also that there is much room for improvement!\n伟大的人能够容忍模糊性；他们可以同时相信和不相信。你必须既能相信你所在的组织和研究领域是最好的，又能相信仍有很大的改进空间！",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 30 You and your research"
+    },
+    {
+      "quote": "Doing the job with 'style' is important. As the old song says, 'It ain’t what you do, it’s the way that you do it.'\n用‘风格’来完成工作是很重要的。正如老歌所唱，‘重要的不是你做了什么，而是你做的方式。’",
+      "source": "The Art of Doing Science and Engineering – Richard W. Hamming - Chapter 30 You and your research"
+    }
+  ]
+}
